@@ -1,0 +1,18 @@
+﻿  GameState.cpp
+C:\Users\vlvor\PerfectGame 2\GameState\GameState.cpp(51,40): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\GameState\GameState.cpp(139,30): warning C4267: аргумент: преобразование из "size_t" в "GameIdx"; возможна потеря данных
+  UdpSocket.cpp
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(16,23): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(68,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(75,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(86,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\vlvor\PerfectGame 2\GameManager\main.cpp(36,19): warning C4244: return: преобразование "_Rep" в "unsigned long", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\memory(3378,1): warning C4267: аргумент: преобразование из "size_t" в "u_short"; возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\GameManager\main.cpp(50): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::unique_ptr<UdpSocket,std::default_delete<UdpSocket>> std::make_unique<UdpSocket,const size_t&,0>(const size_t &)"
+  Создание кода...
+  GameManager.vcxproj -> C:\Users\vlvor\PerfectGame 2\x64\Debug\GameManager.exe
