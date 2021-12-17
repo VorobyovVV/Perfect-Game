@@ -1,0 +1,31 @@
+﻿  GameState.cpp
+C:\Users\vlvor\PerfectGame 2\GameState\GameState.cpp(51,40): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\GameState\GameState.cpp(139,30): warning C4267: аргумент: преобразование из "size_t" в "GameIdx"; возможна потеря данных
+  client.cpp
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(45,1): warning C4267: аргумент: преобразование из "size_t" в "T"; возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(57,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(57,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(69,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(89,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(153,10): warning C4244: аргумент: преобразование "double" в "unsigned long", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(164,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(174,10): warning C4244: аргумент: преобразование "double" в "unsigned long", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(202,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(207,64): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(213,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(218,64): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(223,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(228,81): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(233,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\client.cpp(238,81): warning C4244: аргумент: преобразование "float" в "size_t", возможна потеря данных
+  UdpSocket.cpp
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(16,23): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(68,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(75,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vlvor\PerfectGame 2\PerfectGameClient\UdpSocket.cpp(86,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  PerfectGameClient.vcxproj -> C:\Users\vlvor\PerfectGame 2\x64\Debug\PerfectGameClient.exe
