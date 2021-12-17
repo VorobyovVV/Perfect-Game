@@ -1,0 +1,3 @@
+﻿  GameState.cpp
+C:\Users\Артём\source\repos\perfect-game\Perfect Game2.0\PerfectGame\GameState\GameState.cpp(51,40): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+  GameState.vcxproj -> C:\Users\Артём\source\repos\perfect-game\Perfect Game2.0\PerfectGame\x64\Debug\GameState.dll
